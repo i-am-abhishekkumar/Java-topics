@@ -14,4 +14,11 @@
 <img width="1138" height="496" alt="image" src="https://github.com/user-attachments/assets/c4b9927c-1153-48d8-aeb7-29a805122bc1" />
 
 
+
+4. Exception : try, catch , finally , throw , throws .
+   
+  <img width="1227" height="585" alt="image" src="https://github.com/user-attachments/assets/c18ad28f-2854-49e6-a45a-7ef819b21c48" />
+
+
+
    
