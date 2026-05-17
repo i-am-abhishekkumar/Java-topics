@@ -20,5 +20,13 @@
   <img width="1227" height="585" alt="image" src="https://github.com/user-attachments/assets/c18ad28f-2854-49e6-a45a-7ef819b21c48" />
 
 
+  5. Method and class variable : Static , Final , void :
+
+     Static : belongs to class not object .
+
+     <img width="1067" height="722" alt="image" src="https://github.com/user-attachments/assets/33a28fb1-4de3-4e18-9ca6-aad48901f149" />
+
+
+
 
    
