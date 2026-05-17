@@ -26,6 +26,15 @@
 
      <img width="1067" height="722" alt="image" src="https://github.com/user-attachments/assets/33a28fb1-4de3-4e18-9ca6-aad48901f149" />
 
+     Final :final means "cannot be changed after initialization." It applies to variables, methods, and classes, but means something slightly different in each context.
+
+     <img width="652" height="661" alt="image" src="https://github.com/user-attachments/assets/e1dc59ec-f283-4b7f-bbb1-87ed5e5fbcdc" />
+
+6. Explaination of Public Static void  main(String [] args):
+    <img width="625" height="672" alt="image" src="https://github.com/user-attachments/assets/0fa05494-0f68-4d7b-9d11-3d3a1502a779" />
+
+
+
 
 
 
